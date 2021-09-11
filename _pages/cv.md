@@ -9,25 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+Download my full CV <u><a href="https://simoncrouzet.github.io/files/SimonCrouzet_CV_2021.pdf">here</a></u> (updated August, 2021).
+
+See below for a brief summary of my work.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Genomics, Systems Biology & Bioinformatics, ENS Paris (part of PSL - Paris Sciences et Lettres), 2021-2022 (expected)
+* M.Sc. in Bioinformatics & Modelling, Sorbonne University, 2020-2021
+* B.Sc. in Bioinformatics, Aix-Marseille University, 2017-2020
+* B.Sc. in Chemistry, Grenoble-Alpes University, 2013-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Student Researcher, Wellcome Sanger Institute - University of Cambridge (Summer 2021)
+* Undergraduate Researcher, BAHCM - University of Glasgow (Spring/Summer 2020)
+* Undergraduate Researcher, LIS - Aix-Marseille University (Summer 2018)
+* Undergraduate Researcher, LEPMI - Grenoble Alpes University (Winter 2016)
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
