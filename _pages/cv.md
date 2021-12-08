@@ -17,15 +17,15 @@ Education
 ======
 * M.Sc. in Genomics, Systems Biology & Bioinformatics, ENS Paris (part of PSL - Paris Sciences et Lettres), 2021-2022 (expected)
 * M.Sc. in Bioinformatics & Modelling, Sorbonne University, 2020-2021
-* B.Sc. in Bioinformatics, Aix-Marseille University, 2017-2020
+* B.Sc. in Computer Science, Aix-Marseille University, 2017-2020
 * B.Sc. in Chemistry, Grenoble-Alpes University, 2013-2016
 
 Work experience
 ======
-* Graduate Student Researcher, Wellcome Sanger Institute - University of Cambridge (Summer 2021)
-* Undergraduate Researcher, BAHCM - University of Glasgow (Spring/Summer 2020)
-* Undergraduate Researcher, LIS - Aix-Marseille University (Summer 2018)
-* Undergraduate Researcher, LEPMI - Grenoble Alpes University (Winter 2016)
+* Graduate Research Intern, Wellcome Sanger Institute - University of Cambridge (Summer 2021)
+* Undergraduate Research Intern, BAHCM - University of Glasgow (Spring/Summer 2020)
+* Undergraduate Research Intern, LIS - Aix-Marseille University (Summer 2018)
+* Undergraduate Research Intern, LEPMI - Grenoble Alpes University (Winter 2016)
   
 <!-- Skills
 ======
