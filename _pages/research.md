@@ -12,6 +12,9 @@ Computational Virology
 ------
 At the Institute of Biodiversity, Animal Health and Comparative Medicine (University of Glasgow, Group Leader: Simon Babayan), I worked on a viral host predictor in Julia. Using large genomic and ecological datasets, Babayan et al. ([Science, 2018](https://dx.doi.org/10.1126/science.aap9072)) demonstrate the possibility of predicting animal reservoirs as well as the existence and identity of arthropod vectors from viral genome sequences alone, via machine learning. Together, we rewrote the entire pipeline from the ground up in the high-performance programming language Julia, extended the scope of our models to DNA viruses and new reservoir groups and/or vector groups, added structural data, and now offer better usability with an all-in-one feature engineering and model training user interface.
 
+Precision Medicine & Computational Virology
+------
+At the Department of of Biosystems Science and Engineering (ETH Zurich, Group Leader: Niko Beerenwinkel), I worked on computational methods to predict HIV mutational pathways and induced drug resistance to antiretrovirals, aiming to design optimal treatment combinations.
 
 Computational Structural Biology
 ------

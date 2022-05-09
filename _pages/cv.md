@@ -22,8 +22,9 @@ Education
 
 Work experience
 ======
-* Graduate Research Intern, Wellcome Sanger Institute - University of Cambridge (Summer 2021)
-* Undergraduate Research Intern, BAHCM - University of Glasgow (Spring/Summer 2020)
+* Master Thesis Student, D-BSSE - ETH Zürich (Winter/Spring 2022)
+* Summer Research Intern, Wellcome Sanger Institute - University of Cambridge (Summer 2021)
+* Research Intern, BAHCM - University of Glasgow (Spring/Summer 2020)
 * Undergraduate Research Intern, LIS - Aix-Marseille University (Summer 2018)
 * Undergraduate Research Intern, LEPMI - Grenoble Alpes University (Winter 2016)
   
