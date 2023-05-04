@@ -3,8 +3,6 @@ layout: archive
 title: "Studies"
 permalink: /studies/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 <style>body {text-align: justify}</style>
 {% include base_path %}
