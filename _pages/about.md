@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<style>body {text-align: justify}</style>
 Hello there! I am a young passionate researcher with various experiences in computational biology, data science and bioinformatics. I received my master degree from the École Normale Supérieure de Paris (ENS-PSL), and I acquired through my research experiences an interdisciplinary and international academic background. I am currently working as a PhD student at EPFL in the Laboratory of Biomolecular Modeling.
 
 I'm developing AI models and computational methods for structural biology, with a focus on protein and drug design.

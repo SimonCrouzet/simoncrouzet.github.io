@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<style>body {text-align: justify}</style>
 {% include base_path %}
 
 Education

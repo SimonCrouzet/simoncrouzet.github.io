@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<style>body {text-align: justify}</style>
 {% include base_path %}
 
 Download my full CV <u><a href="https://simoncrouzet.github.io/files/SimonCrouzet_CV_2023.pdf">here</a></u> (updated April, 2023).
