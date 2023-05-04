@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Simon Crouzet"
   avatar           : "profile.png"
-  bio              : "Bioinformatician"
-  location         : "Paris, France"
-  employer         : "ENS-PSL"
+  bio              : "Computational Biologist & Data Scientist"
+  location         : "Lausanne, Switzerland"
+  employer         : "EPFL"
   email            : "simon.crouzet@ens.psl.eu"
   uri              :
   bitbucket        :
@@ -95,19 +95,20 @@ author:
   foursquare       :
   github           : "SimonCrouzet"
   google_plus      :
+  googlescholar    : https://scholar.google.com/citations?user=Ga8_rrgAAAAJ
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : https://www.linkedin.com/in/simon-crouzet/
-  researchgate     :  https://www.researchgate.net/profile/Simon-Crouzet # example: "https://www.researchgate.net/profile/yourprofile"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  researchgate     : https://www.researchgate.net/profile/Simon-Crouzet # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : http://orcid.org/0000-0002-5012-4621
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "SimonCrouzet"
   vine             :
   weibo            :
   xing             :
