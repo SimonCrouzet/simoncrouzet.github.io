@@ -4,6 +4,7 @@ title: "Studies"
 permalink: /studies/
 author_profile: true
 ---
+
 <style>body {text-align: justify}</style>
 {% include base_path %}
 

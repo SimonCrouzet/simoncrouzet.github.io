@@ -4,10 +4,11 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+
 <style>body {text-align: justify}</style>
 {% include base_path %}
 
-Download my full CV <u><a href="https://simoncrouzet.github.io/files/SimonCrouzet_CV_2023.pdf">here</a></u> (updated April, 2023).
+Download my full CV <u><a href="https://simoncrouzet.github.io/files/SimonCrouzet_CV_2025_short.pdf">here</a></u> (updated April, 2023).
 
 See below for a brief summary of my work.
 
